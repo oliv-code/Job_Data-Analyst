@@ -1,44 +1,36 @@
-# Day X, 88.08.2088
-Protocol writer:
+# Day 2, 30.04.2024
+Protocol writer: Olivia
 
 ---
 ## __Introduction__
-Please exchange the already existing text for your own, all the formatting is already done.  
-If you want to add a new line add two spaces and a line break (enter) at the end of your text. 
+This is a summary of our second day. It includes topics such as the portrait of a data analyst, data tasks, and a first task in GitHub.
 
 ## __Schedule__ 
 |Time|Notes|
 |---|---|
-|09:00 - 10:00|your text here|
-|10:00 - 11:00|your text here|
-|11:00 - 12:00|your text here| 
-|12:00 - 13:00|your text here|   
-|13:00 - 14:00|your text here| 
-|14:00 - 15:00|your text here| 
-|15:00 - 16:00|your text here|
-|16:00 - 17:00|your text here|
+|09:30 - 10:30|Portrait of a Data Analyst|
+|10:30 - 12:15|Data tasks|
+|12:15 - 13:30|Lunch break| 
+|13:30 - 15:45|GitHub task|   
+
 
 ---
 
-## __Content Heading__ 
-* bullet points 
-* about content 
-* bold **text**
-* italic *text*
-* more text 
-* more text 
-* more text 
-* more text 
+## __Portrait of a Data Analyst__ 
+* Data Analytics is a Lifecycle (it’s not linear) 
+* Data Analytics: Transforming Data into Revenue
+* bold **Data Tasks great and small**
+* Skill set and differences for Data roles
+* more text  
+
 
 ---
 
-## __next content__ 
-* more text 
-* more text 
-* more text 
-* more text 
-* more text 
-* more text 
+## __GitHub Job-Exercise__ 
+1. creating a new github repo 
+2. creatng a branch 
+3. adding a new .md file + notes 
+4. Creating a pull request 
 
 ## __Discussion Questions__
 
